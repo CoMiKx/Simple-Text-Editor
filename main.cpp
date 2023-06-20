@@ -75,13 +75,6 @@ private:
 
         // Edit menu
         QMenu *editMenu = menuBar->addMenu("Edit");
-        editMenu->addAction("Undo");
-        editMenu->addAction("Redo");
-        editMenu->addSeparator();
-        editMenu->addAction("Cut");
-        editMenu->addAction("Copy");
-        editMenu->addAction("Paste");
-        editMenu->addSeparator();
         editMenu->addAction("Find");
         editMenu->addAction("Replace");
 
