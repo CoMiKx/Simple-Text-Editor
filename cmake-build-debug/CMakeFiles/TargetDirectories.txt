@@ -1,0 +1,5 @@
+E:/Baramee/C_Project/Text_Editor/cmake-build-debug/CMakeFiles/Text_Editor.dir
+E:/Baramee/C_Project/Text_Editor/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Baramee/C_Project/Text_Editor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Baramee/C_Project/Text_Editor/cmake-build-debug/CMakeFiles/Text_Editor_autogen_timestamp_deps.dir
+E:/Baramee/C_Project/Text_Editor/cmake-build-debug/CMakeFiles/Text_Editor_autogen.dir
