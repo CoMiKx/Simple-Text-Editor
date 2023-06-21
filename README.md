@@ -2,6 +2,8 @@
 
 This is a simple text editor application developed in C++ using the Qt framework.
 
+![GUI_img](./pic/GUI.png)
+
 ## Features
 
 - Create new files
@@ -22,6 +24,7 @@ This is a simple text editor application developed in C++ using the Qt framework
 To get a local copy of the project, follow these steps:
 
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/CoMiKx/Simple-Text-Editor.git
     ```
